@@ -16,7 +16,7 @@ pip install oxrse_unit_conv
 ```
 
 ## Usage
-
+This is a new trail of git and remotes and changes to the repositry after forking and cloning
 ### In a python script
 
 ```python
